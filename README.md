@@ -1,3 +1,3 @@
 # fourier
 project on fourier series 
-(NOT ALL PUSHED)
+just python mainestmain.py and input your equation into the cli :).
